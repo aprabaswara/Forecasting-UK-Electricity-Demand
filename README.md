@@ -1,2 +1,2 @@
 # Forecasting-UK-Electricity-Demand
-This project will aim to build the best possible model, or ensemble of models, for predicting UK electricity demand 24 hours in advance, using half hourly data from the UK national grid, from 2011 to 2016, along with corresponding temperature data.
+This project will aim to build the best possible model, or ensemble of models, for predicting UK electricity demand 24 hours in advance, using half hourly data from the UK national grid, from 2011 to 2016, along with corresponding temperature data. The data is available in the UKL.RDa file. For the description of the variable of interest in the data see the Data Descriptions.txt file.
