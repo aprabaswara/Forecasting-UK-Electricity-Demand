@@ -1,0 +1,15 @@
+setwd("where/you/put/data") ## change this
+load("UKL.RDa") ## load UKL data
+head(UKL)
+date - date and time of measurements.
+year
+month - month of year coded 1-12
+tod - time of day in half hour intervals coded 0-47
+toy - time of year, as proportion.
+timeCount - cumulative time scaled to [0,1]
+load - grid load in megawatts.
+load48 - grid load 24 hours (48 half hours) previously.
+temp - average daily temperature.
+temp95 - exponentially smoothed lagged temperature
+dow - day of week
+- Note that the Christmas/New Year holiday periods are not included in these data.
