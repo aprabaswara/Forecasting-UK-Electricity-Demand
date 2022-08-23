@@ -1,1 +1,3 @@
 # Forecasting-UK-Electricity-Demand
+
+The goal of this project was to forecast UK (United Kingdom) electricity demand 24 hours in advance (one day ahead). The data for this project was obtained from the UK national grid. It contains data on half-hourly electricity consumption and average daily temperature. For predicting electricity demand, the model I developed takes into account meteorological variables (primarily temperature) as well as calendar effects. The project's analysis results are written in a report to assist the engineers in charge of operational grid management in the UK national grid.
